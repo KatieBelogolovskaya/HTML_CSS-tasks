@@ -1,0 +1,28 @@
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+
+}
+#col1 {
+    background: #898389;
+    width: 200px;
+    height: 100vh;
+    float: left;
+
+}
+#nav {
+    margin-left: 10px;
+}
+#col2 {
+    background: #d9d9d9;
+    padding-top: 30px;
+}
+
+#col3 {
+    width: 100px;
+    height: 100vh;
+    background: #51bfe2;
+}
+
+

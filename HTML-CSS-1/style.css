@@ -1,0 +1,19 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#block {
+    height: 200px;
+    background: blueviolet;
+}
+
+#main {
+    color: white;
+    word-spacing: 40px;
+    margin-right: 30px;
+    padding-top: 85px;
+}
+#text {
+    margin-left: 10px;
+}
